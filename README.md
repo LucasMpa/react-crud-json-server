@@ -6,7 +6,6 @@ A simple example of a CRUD applied to a car dealership.
 ```
 $ npm install
 $ npm start
-
 ```
 ## Deploy Json-Server
 ```
@@ -15,5 +14,4 @@ $ npm run dbjson
 or
 
 $ yarn run dbjson
-
 ```
